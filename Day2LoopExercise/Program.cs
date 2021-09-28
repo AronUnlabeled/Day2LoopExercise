@@ -7,10 +7,8 @@ namespace Day2LoopExercise
         static void Main(string[] args)
         {
             for (int i = 0; i <= 100; i++)
-            {
                 if ( i % 2 == 0)
                     Console.WriteLine(i);
-            }
 
             bool loopBool = true;
             while (loopBool) 
@@ -22,11 +20,9 @@ namespace Day2LoopExercise
             }
 
             int sum = 0;
-            for (int i = 0; i<=5; i++) {
+            for (int i = 0; i<=5; i++)
                 sum += i;
-            }
             Console.WriteLine(sum);
-
         }
     }
 }
