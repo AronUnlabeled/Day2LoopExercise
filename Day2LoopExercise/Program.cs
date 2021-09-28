@@ -11,6 +11,16 @@ namespace Day2LoopExercise
                 if ( i % 2 == 0)
                     Console.WriteLine(i);
             }
+
+            bool loopBool = true;
+            while (loopBool) 
+            {
+                Console.WriteLine("Continue loop? y or n");
+                String input = Console.ReadLine();
+                if (input != "y")
+                    loopBool = false;     
+            }
+
         }
     }
 }
