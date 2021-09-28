@@ -1,0 +1,16 @@
+C:\Users\aron\source\repos\Day2LoopExercise\Day2LoopExercise\bin\Debug\net5.0\Day2LoopExercise.exe
+C:\Users\aron\source\repos\Day2LoopExercise\Day2LoopExercise\bin\Debug\net5.0\Day2LoopExercise.deps.json
+C:\Users\aron\source\repos\Day2LoopExercise\Day2LoopExercise\bin\Debug\net5.0\Day2LoopExercise.runtimeconfig.json
+C:\Users\aron\source\repos\Day2LoopExercise\Day2LoopExercise\bin\Debug\net5.0\Day2LoopExercise.runtimeconfig.dev.json
+C:\Users\aron\source\repos\Day2LoopExercise\Day2LoopExercise\bin\Debug\net5.0\Day2LoopExercise.dll
+C:\Users\aron\source\repos\Day2LoopExercise\Day2LoopExercise\bin\Debug\net5.0\ref\Day2LoopExercise.dll
+C:\Users\aron\source\repos\Day2LoopExercise\Day2LoopExercise\bin\Debug\net5.0\Day2LoopExercise.pdb
+C:\Users\aron\source\repos\Day2LoopExercise\Day2LoopExercise\obj\Debug\net5.0\Day2LoopExercise.csproj.AssemblyReference.cache
+C:\Users\aron\source\repos\Day2LoopExercise\Day2LoopExercise\obj\Debug\net5.0\Day2LoopExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aron\source\repos\Day2LoopExercise\Day2LoopExercise\obj\Debug\net5.0\Day2LoopExercise.AssemblyInfoInputs.cache
+C:\Users\aron\source\repos\Day2LoopExercise\Day2LoopExercise\obj\Debug\net5.0\Day2LoopExercise.AssemblyInfo.cs
+C:\Users\aron\source\repos\Day2LoopExercise\Day2LoopExercise\obj\Debug\net5.0\Day2LoopExercise.csproj.CoreCompileInputs.cache
+C:\Users\aron\source\repos\Day2LoopExercise\Day2LoopExercise\obj\Debug\net5.0\Day2LoopExercise.dll
+C:\Users\aron\source\repos\Day2LoopExercise\Day2LoopExercise\obj\Debug\net5.0\ref\Day2LoopExercise.dll
+C:\Users\aron\source\repos\Day2LoopExercise\Day2LoopExercise\obj\Debug\net5.0\Day2LoopExercise.pdb
+C:\Users\aron\source\repos\Day2LoopExercise\Day2LoopExercise\obj\Debug\net5.0\Day2LoopExercise.genruntimeconfig.cache
